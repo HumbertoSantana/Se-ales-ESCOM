@@ -1,4 +1,4 @@
-# Seniales-ESCOM
+# Señales-ESCOM
 Proyecto final de la materia de Teoría de Comunicaciones y Señales de la ESCOM.
 
 Este proyecto consiste en capturar una señal de audio a través de un micrófono y realizar operaciones a dicha señal.
