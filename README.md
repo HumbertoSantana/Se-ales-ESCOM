@@ -7,9 +7,9 @@ Este proyecto está desarrollado en Matlab y cuenta con una interfaz gráfica.
 
 Este proyecto fue desarrollador por:
 
-Cardoso Ana Laura
-Cruz Najar Ricardo
-Ruíz Pérez Alejandro
-Santana Martínez Humberto
+- Cardoso Ana Laura
+- Cruz Najar Ricardo
+- Ruíz Pérez Alejandro
+- Santana Martínez Humberto
 
 :) 
